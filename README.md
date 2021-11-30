@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing, new technology, reading and movie.
 - 🌱 I’m currently learning UI/UX Design and Front-End Development.
 - 💞️ I’m looking to collaborate on UI/UX Design and Front-End Development.
-- 📫 How to reach me --by gmail  : hearakim68@gmail.com
+- 📫 How to reach me --by gmail  : thearakim68@gmail.com
                           website: thearakim.com
 
 <!---
